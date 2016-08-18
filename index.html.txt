@@ -1,0 +1,15 @@
+<!Doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<h1>Git training </h1>
+	<p>New change in file index</p>
+
+</body>
+</html>
+	
+	
+ 
