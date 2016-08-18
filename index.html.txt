@@ -7,7 +7,7 @@
 </head>
 <body>
 	<h1>Git training </h1>
-	<p>New change in file index</p>
+	<p> some new text</p>		
 	<p>New text in the page</p> 
 
 </body>
